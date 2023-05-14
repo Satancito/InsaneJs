@@ -1,2 +1,2 @@
 # InsaneJs
-Insane Web Assembly module.
+Insane Web Assembly module for Blazor.
